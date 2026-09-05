@@ -1,4 +1,4 @@
-![fhdyyt](.github\banner-profile.gif)
+![fhdyyt](.github/banner-profile.gif)
 
 # Hi, I'm Fahmi 👋
 Information Systems student spend time for network engineers and system administrators, with a strong interest in DevOps
